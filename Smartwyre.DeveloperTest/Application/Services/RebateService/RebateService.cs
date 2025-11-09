@@ -3,7 +3,6 @@ using Smartwyre.DeveloperTest.Application.Contracts;
 using Smartwyre.DeveloperTest.Application.Factories;
 using Smartwyre.DeveloperTest.Application.Services.RebateService.Models;
 using Smartwyre.DeveloperTest.Contracts;
-using Smartwyre.DeveloperTest.Domain.Entities;
 using Smartwyre.DeveloperTest.Domain.Enums;
 
 namespace Smartwyre.DeveloperTestDeveloperTest.Application.Services.RebateService;

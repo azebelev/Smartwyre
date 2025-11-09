@@ -1,6 +1,5 @@
 using Microsoft.Extensions.DependencyInjection;
 using Smartwyre.DeveloperTest.Application.Contracts;
-using Smartwyre.DeveloperTest.Data;
 using Smartwyre.DeveloperTest.Persistence;
 
 namespace Smartwyre.DeveloperTest.Runner.Extensions;

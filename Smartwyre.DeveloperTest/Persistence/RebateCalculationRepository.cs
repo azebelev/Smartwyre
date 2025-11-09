@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Smartwyre.DeveloperTest.Application.Contracts;
-using Smartwyre.DeveloperTest.Application.Services.RebateService.Models;
 using Smartwyre.DeveloperTest.Domain.Entities;
 
-namespace Smartwyre.DeveloperTest.Data;
+namespace Smartwyre.DeveloperTest.Persistence;
 
 public class RebateCalculationRepository : IRebateCalculationRepository
 {

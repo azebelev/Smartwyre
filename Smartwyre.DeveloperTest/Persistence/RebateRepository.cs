@@ -4,7 +4,7 @@ using Smartwyre.DeveloperTest.Application.Contracts;
 using Smartwyre.DeveloperTest.Domain.Entities;
 using Smartwyre.DeveloperTest.Domain.Enums;
 
-namespace Smartwyre.DeveloperTest.Data;
+namespace Smartwyre.DeveloperTest.Persistence;
 
 public class RebateRepository : IRebateRepository
 {

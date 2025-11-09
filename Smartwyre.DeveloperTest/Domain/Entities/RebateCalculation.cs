@@ -1,7 +1,6 @@
-﻿using Smartwyre.DeveloperTest.Domain.Entities;
-using Smartwyre.DeveloperTest.Domain.Enums;
+﻿using Smartwyre.DeveloperTest.Domain.Enums;
 
-namespace Smartwyre.DeveloperTest.Application.Services.RebateService.Models;
+namespace Smartwyre.DeveloperTest.Domain.Entities;
 
 public class RebateCalculation
 {
